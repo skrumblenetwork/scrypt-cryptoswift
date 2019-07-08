@@ -1,5 +1,5 @@
 def import_pods
-  pod 'CryptoSwift', '~> 0.12'
+  pod 'CryptoSwift', '~> 1.0.0'
 end
 
 target 'scrypt' do
